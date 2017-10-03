@@ -1008,3 +1008,596 @@ LogInit: Object subsystem initialized
 [2017.10.03-20.46.50:318][506]LogSavePackage: Save=19.13ms
 [2017.10.03-20.46.50:318][506]LogSavePackage: Moving 'C:/Users/tsny7/Documents/Unreal Projects/Pong/Saved/UMG_HUDA5363D1E47223A051355FC984F15CD99.tmp' to 'C:/Users/tsny7/Documents/Unreal Projects/Pong/Content/UMG_HUD.uasset'
 [2017.10.03-20.46.50:321][506]LogSavePackage: Display: Finished SavePackage C:/Users/tsny7/Documents/Unreal Projects/Pong/Content/UMG_HUD.uasset
+[2017.10.03-21.10.39:938][904]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.03-21.10.39:987][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map_Base.Map_Base:PersistentLevel' has LevelScriptBlueprint '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base' with GeneratedClass '/Game/Map_Base.Map_Base_C' with ClassGeneratedBy '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base'
+[2017.10.03-21.10.39:987][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.03-21.10.39:987][904]PIE: New page: PIE session: Map_Base (Oct 3, 2017, 11:10:39 AM)
+[2017.10.03-21.10.39:987][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.10.39:990][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003298s)
+[2017.10.03-21.10.39:991][904]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.10.39:991][904]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2017.10.03-21.10.39:991][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.004481s)
+[2017.10.03-21.10.40:023][904]LogInit: XAudio2 using 'Monitor Speakers (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.03-21.10.40:032][904]LogInit: FAudioDevice initialized.
+[2017.10.03-21.10.40:067][904]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.10.40:070][904]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.10.40
+[2017.10.03-21.10.40:070][904]LogWorld: Bringing up level for play took: 0.002071
+[2017.10.03-21.10.40:071][904]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.10.40:071][904]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.10.40:071][904]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.10.40:071][904]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.10.40:072][904]PIE: Play in editor start time for /Game/UEDPIE_0_Map_Base 0.681
+[2017.10.03-21.10.40:072][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map_Base.Map_Base:PersistentLevel' has LevelScriptBlueprint '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base' with GeneratedClass '/Game/Map_Base.Map_Base_C' with ClassGeneratedBy '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base'
+[2017.10.03-21.10.41:266][ 32]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.10.41:266][ 32]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.10.41:269][ 32]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.10.41:277][ 33]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.10.41:277][ 33]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.10.41:277][ 33]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.10.41:299][ 33]Cmd: MEM
+[2017.10.03-21.10.41:317][ 33]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.10.41:317][ 33]LogMemory: Process Physical Memory: 2048.38 MB used, 2228.88 MB peak
+[2017.10.03-21.10.41:317][ 33]LogMemory: Process Virtual Memory: 3545.32 MB used, 3775.52 MB peak
+[2017.10.03-21.10.41:317][ 33]LogMemory: Physical Memory: 7557.64 MB used,  8790.17 MB free, 16347.81 MB total
+[2017.10.03-21.10.41:317][ 33]LogMemory: Virtual Memory: 4458.96 MB used,  8790.17 MB free, 134217728.00 MB total
+[2017.10.03-21.10.41:317][ 33]LogMemory: 
+[2017.10.03-21.10.41:317][ 33]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.10.41:317][ 33]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.10.41:319][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002043s)
+[2017.10.03-21.10.41:320][ 33]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.10.41:320][ 33]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2017.10.03-21.10.41:320][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003016s)
+[2017.10.03-21.10.41:320][ 33]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.10.41:322][ 33]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.10.41
+[2017.10.03-21.10.41:322][ 33]LogWorld: Bringing up level for play took: 0.001646
+[2017.10.03-21.10.41:323][ 33]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.10.41:323][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.10.41:323][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.10.41:323][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.10.41:323][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.10.41:323][ 33]LogLoad: Took 0.046824 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.11.17:604][993]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.11.17:604][993]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.11.17:605][993]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.11.17:614][994]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.11.17:614][994]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.11.17:615][994]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.11.17:635][994]Cmd: MEM
+[2017.10.03-21.11.17:654][994]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.11.17:654][994]LogMemory: Process Physical Memory: 2082.99 MB used, 2228.88 MB peak
+[2017.10.03-21.11.17:654][994]LogMemory: Process Virtual Memory: 3353.75 MB used, 3775.52 MB peak
+[2017.10.03-21.11.17:654][994]LogMemory: Physical Memory: 7620.60 MB used,  8727.21 MB free, 16347.81 MB total
+[2017.10.03-21.11.17:654][994]LogMemory: Virtual Memory: 4304.14 MB used,  8727.21 MB free, 134217728.00 MB total
+[2017.10.03-21.11.17:654][994]LogMemory: 
+[2017.10.03-21.11.17:654][994]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.11.17:654][994]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.11.17:656][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002006s)
+[2017.10.03-21.11.17:657][994]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.11.17:657][994]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2017.10.03-21.11.17:657][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003022s)
+[2017.10.03-21.11.17:657][994]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.11.17:659][994]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.11.17
+[2017.10.03-21.11.17:659][994]LogWorld: Bringing up level for play took: 0.001723
+[2017.10.03-21.11.17:660][994]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.11.17:660][994]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.11.17:660][994]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.11.17:660][994]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.11.17:661][994]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.11.17:661][994]LogLoad: Took 0.046376 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.11.53:973][988]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.11.53:973][988]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.11.53:975][988]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.11.53:983][989]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.11.53:984][989]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.11.53:984][989]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.11.54:005][989]Cmd: MEM
+[2017.10.03-21.11.54:024][989]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.11.54:024][989]LogMemory: Process Physical Memory: 2051.32 MB used, 2228.88 MB peak
+[2017.10.03-21.11.54:024][989]LogMemory: Process Virtual Memory: 3357.91 MB used, 3775.52 MB peak
+[2017.10.03-21.11.54:025][989]LogMemory: Physical Memory: 7598.32 MB used,  8749.49 MB free, 16347.81 MB total
+[2017.10.03-21.11.54:025][989]LogMemory: Virtual Memory: 4295.71 MB used,  8749.49 MB free, 134217728.00 MB total
+[2017.10.03-21.11.54:025][989]LogMemory: 
+[2017.10.03-21.11.54:025][989]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.11.54:025][989]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.11.54:027][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002037s)
+[2017.10.03-21.11.54:027][989]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.11.54:027][989]LogPlayLevel: PIE: World Init took: (0.000665s)
+[2017.10.03-21.11.54:028][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.002934s)
+[2017.10.03-21.11.54:028][989]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.11.54:029][989]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.11.54
+[2017.10.03-21.11.54:029][989]LogWorld: Bringing up level for play took: 0.001415
+[2017.10.03-21.11.54:030][989]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.11.54:030][989]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.11.54:030][989]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.11.54:030][989]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.11.54:031][989]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.11.54:031][989]LogLoad: Took 0.047254 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.12.33:397][314]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.12.33:397][314]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.12.33:399][314]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.12.33:408][315]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.12.33:408][315]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.12.33:408][315]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.12.33:430][315]Cmd: MEM
+[2017.10.03-21.12.33:448][315]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.12.33:448][315]LogMemory: Process Physical Memory: 2051.29 MB used, 2228.88 MB peak
+[2017.10.03-21.12.33:448][315]LogMemory: Process Virtual Memory: 3351.42 MB used, 3775.52 MB peak
+[2017.10.03-21.12.33:448][315]LogMemory: Physical Memory: 7604.36 MB used,  8743.45 MB free, 16347.81 MB total
+[2017.10.03-21.12.33:448][315]LogMemory: Virtual Memory: 4267.71 MB used,  8743.45 MB free, 134217728.00 MB total
+[2017.10.03-21.12.33:448][315]LogMemory: 
+[2017.10.03-21.12.33:448][315]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.12.33:448][315]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.12.33:450][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002088s)
+[2017.10.03-21.12.33:451][315]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.12.33:451][315]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.10.03-21.12.33:451][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003291s)
+[2017.10.03-21.12.33:451][315]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.12.33:453][315]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.12.33
+[2017.10.03-21.12.33:453][315]LogWorld: Bringing up level for play took: 0.001387
+[2017.10.03-21.12.33:454][315]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.12.33:454][315]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.12.33:454][315]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.12.33:454][315]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.12.33:454][315]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.12.33:454][315]LogLoad: Took 0.046375 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.12.39:417][969]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.12.39:417][969]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.12.39:420][969]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.12.39:429][970]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.12.39:429][970]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.12.39:429][970]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.12.39:451][970]Cmd: MEM
+[2017.10.03-21.12.39:468][970]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.12.39:469][970]LogMemory: Process Physical Memory: 2047.79 MB used, 2228.88 MB peak
+[2017.10.03-21.12.39:469][970]LogMemory: Process Virtual Memory: 3351.56 MB used, 3775.52 MB peak
+[2017.10.03-21.12.39:469][970]LogMemory: Physical Memory: 7645.22 MB used,  8702.59 MB free, 16347.81 MB total
+[2017.10.03-21.12.39:469][970]LogMemory: Virtual Memory: 4287.64 MB used,  8702.59 MB free, 134217728.00 MB total
+[2017.10.03-21.12.39:469][970]LogMemory: 
+[2017.10.03-21.12.39:469][970]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.12.39:469][970]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.12.39:471][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002214s)
+[2017.10.03-21.12.39:471][970]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.12.39:472][970]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2017.10.03-21.12.39:472][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003162s)
+[2017.10.03-21.12.39:472][970]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.12.39:474][970]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.12.39
+[2017.10.03-21.12.39:474][970]LogWorld: Bringing up level for play took: 0.001546
+[2017.10.03-21.12.39:474][970]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.12.39:475][970]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.12.39:475][970]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.12.39:475][970]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.12.39:475][970]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.12.39:475][970]LogLoad: Took 0.046376 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.12.41:077][144]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.12.41:077][144]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.12.41:079][144]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.12.41:087][145]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.12.41:087][145]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.12.41:087][145]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.12.41:111][145]Cmd: MEM
+[2017.10.03-21.12.41:131][145]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.12.41:131][145]LogMemory: Process Physical Memory: 2047.92 MB used, 2228.88 MB peak
+[2017.10.03-21.12.41:131][145]LogMemory: Process Virtual Memory: 3417.15 MB used, 3775.52 MB peak
+[2017.10.03-21.12.41:131][145]LogMemory: Physical Memory: 7643.50 MB used,  8704.32 MB free, 16347.81 MB total
+[2017.10.03-21.12.41:131][145]LogMemory: Virtual Memory: 4303.64 MB used,  8704.32 MB free, 134217728.00 MB total
+[2017.10.03-21.12.41:131][145]LogMemory: 
+[2017.10.03-21.12.41:131][145]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.12.41:131][145]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.12.41:133][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001949s)
+[2017.10.03-21.12.41:134][145]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.12.41:134][145]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2017.10.03-21.12.41:134][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.002744s)
+[2017.10.03-21.12.41:134][145]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.12.41:136][145]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.12.41
+[2017.10.03-21.12.41:136][145]LogWorld: Bringing up level for play took: 0.001639
+[2017.10.03-21.12.41:137][145]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.12.41:137][145]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.12.41:137][145]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.12.41:137][145]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.12.41:137][145]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.12.41:137][145]LogLoad: Took 0.050397 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.13.00:665][321]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.13.00:665][321]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.13.00:667][321]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.13.00:676][322]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.13.00:676][322]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.13.00:676][322]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.13.00:696][322]Cmd: MEM
+[2017.10.03-21.13.00:713][322]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.13.00:713][322]LogMemory: Process Physical Memory: 2084.73 MB used, 2228.88 MB peak
+[2017.10.03-21.13.00:713][322]LogMemory: Process Virtual Memory: 3353.23 MB used, 3775.52 MB peak
+[2017.10.03-21.13.00:713][322]LogMemory: Physical Memory: 7650.46 MB used,  8697.35 MB free, 16347.81 MB total
+[2017.10.03-21.13.00:713][322]LogMemory: Virtual Memory: 4303.64 MB used,  8697.35 MB free, 134217728.00 MB total
+[2017.10.03-21.13.00:713][322]LogMemory: 
+[2017.10.03-21.13.00:713][322]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.13.00:713][322]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.13.00:715][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001947s)
+[2017.10.03-21.13.00:716][322]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.13.00:716][322]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2017.10.03-21.13.00:716][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003002s)
+[2017.10.03-21.13.00:716][322]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.13.00:718][322]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.13.00
+[2017.10.03-21.13.00:719][322]LogWorld: Bringing up level for play took: 0.001493
+[2017.10.03-21.13.00:719][322]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.13.00:719][322]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.13.00:719][322]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.13.00:719][322]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.13.00:720][322]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.13.00:720][322]LogLoad: Took 0.044041 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.13.39:664][607]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.13.39:664][607]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.13.39:666][607]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.13.39:675][608]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.13.39:675][608]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.13.39:675][608]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.13.39:697][608]Cmd: MEM
+[2017.10.03-21.13.39:715][608]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.13.39:715][608]LogMemory: Process Physical Memory: 2047.80 MB used, 2228.88 MB peak
+[2017.10.03-21.13.39:715][608]LogMemory: Process Virtual Memory: 3348.11 MB used, 3775.52 MB peak
+[2017.10.03-21.13.39:715][608]LogMemory: Physical Memory: 7624.47 MB used,  8723.34 MB free, 16347.81 MB total
+[2017.10.03-21.13.39:715][608]LogMemory: Virtual Memory: 4259.64 MB used,  8723.34 MB free, 134217728.00 MB total
+[2017.10.03-21.13.39:715][608]LogMemory: 
+[2017.10.03-21.13.39:715][608]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.13.39:715][608]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.13.39:717][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001977s)
+[2017.10.03-21.13.39:718][608]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.13.39:718][608]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2017.10.03-21.13.39:718][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.002748s)
+[2017.10.03-21.13.39:718][608]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.13.39:720][608]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.13.39
+[2017.10.03-21.13.39:720][608]LogWorld: Bringing up level for play took: 0.001863
+[2017.10.03-21.13.39:721][608]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.13.39:721][608]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.13.39:721][608]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.13.39:721][608]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.13.39:722][608]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.13.39:722][608]LogLoad: Took 0.046628 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.13.45:615][258]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.13.45:615][258]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.13.45:617][258]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.13.45:626][259]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.13.45:626][259]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.13.45:626][259]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.13.45:650][259]Cmd: MEM
+[2017.10.03-21.13.45:672][259]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.13.45:672][259]LogMemory: Process Physical Memory: 2047.80 MB used, 2228.88 MB peak
+[2017.10.03-21.13.45:672][259]LogMemory: Process Virtual Memory: 3351.35 MB used, 3775.52 MB peak
+[2017.10.03-21.13.45:672][259]LogMemory: Physical Memory: 7623.56 MB used,  8724.25 MB free, 16347.81 MB total
+[2017.10.03-21.13.45:672][259]LogMemory: Virtual Memory: 4287.64 MB used,  8724.25 MB free, 134217728.00 MB total
+[2017.10.03-21.13.45:672][259]LogMemory: 
+[2017.10.03-21.13.45:672][259]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.13.45:672][259]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.13.45:675][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2017.10.03-21.13.45:675][259]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.13.45:676][259]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2017.10.03-21.13.45:676][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003403s)
+[2017.10.03-21.13.45:676][259]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.13.45:678][259]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.13.45
+[2017.10.03-21.13.45:678][259]LogWorld: Bringing up level for play took: 0.001691
+[2017.10.03-21.13.45:678][259]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.13.45:679][259]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.13.45:679][259]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.13.45:679][259]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.13.45:679][259]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.13.45:679][259]LogLoad: Took 0.052926 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.14.20:500][ 57]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.14.20:500][ 57]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.10.03-21.14.20:503][ 57]LogGameMode: ProcessServerTravel: ?Restart
+[2017.10.03-21.14.20:511][ 58]LogEngine: Server switch level: ?Restart
+[2017.10.03-21.14.20:511][ 58]LogNet: Browse: /Game/Map_Base?Restart
+[2017.10.03-21.14.20:512][ 58]LogLoad: LoadMap: /Game/Map_Base
+[2017.10.03-21.14.20:532][ 58]Cmd: MEM
+[2017.10.03-21.14.20:551][ 58]LogMemory: Platform Memory Stats for Windows
+[2017.10.03-21.14.20:551][ 58]LogMemory: Process Physical Memory: 2047.30 MB used, 2228.88 MB peak
+[2017.10.03-21.14.20:551][ 58]LogMemory: Process Virtual Memory: 3348.04 MB used, 3775.52 MB peak
+[2017.10.03-21.14.20:551][ 58]LogMemory: Physical Memory: 7632.00 MB used,  8715.82 MB free, 16347.81 MB total
+[2017.10.03-21.14.20:551][ 58]LogMemory: Virtual Memory: 4263.64 MB used,  8715.82 MB free, 134217728.00 MB total
+[2017.10.03-21.14.20:551][ 58]LogMemory: 
+[2017.10.03-21.14.20:551][ 58]Allocator Stats for TBB: (not implemented)
+[2017.10.03-21.14.20:551][ 58]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map_Base
+[2017.10.03-21.14.20:554][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002772s)
+[2017.10.03-21.14.20:554][ 58]LogAIModule: Creating AISystem for world Map_Base
+[2017.10.03-21.14.20:555][ 58]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2017.10.03-21.14.20:555][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map_Base.Map_Base to /Game/UEDPIE_0_Map_Base.Map_Base (0.003693s)
+[2017.10.03-21.14.20:555][ 58]LogLoad: Game class is 'GM_Pong_C'
+[2017.10.03-21.14.20:557][ 58]LogWorld: Bringing World /Game/UEDPIE_0_Map_Base.Map_Base up for play (max tick rate 0) at 2017.10.03-16.14.20
+[2017.10.03-21.14.20:557][ 58]LogWorld: Bringing up level for play took: 0.001655
+[2017.10.03-21.14.20:557][ 58]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.10.03-21.14.20:558][ 58]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.14.20:558][ 58]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.10.03-21.14.20:558][ 58]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.14.20:558][ 58]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.10.03-21.14.20:558][ 58]LogLoad: Took 0.046809 seconds to LoadMap(/Game/UEDPIE_0_Map_Base)
+[2017.10.03-21.15.03:906][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map_Base.Map_Base:PersistentLevel' has LevelScriptBlueprint '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base' with GeneratedClass '/Game/Map_Base.Map_Base_C' with ClassGeneratedBy '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base'
+[2017.10.03-21.15.03:945][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map_Base.Map_Base:PersistentLevel' has LevelScriptBlueprint '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base' with GeneratedClass '/Game/Map_Base.Map_Base_C' with ClassGeneratedBy '/Game/Map_Base.Map_Base:PersistentLevel.Map_Base'
+[2017.10.03-21.15.04:805][847]LogEditorViewport: Clicking on Actor (LMB): Pawn_Paddle_C (Pawn_Paddle2)
+[2017.10.03-21.15.06:246][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.03-21.15.06:334][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.03-21.15.06:385][966]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.03-21.15.06:620][967]Cmd: QUIT_EDITOR
+[2017.10.03-21.15.07:137][967]LogExit: Preparing to exit.
+[2017.10.03-21.15.07:718][967]LogExit: Editor shut down
+[2017.10.03-21.15.07:727][967]LogExit: Transaction tracking system shut down
+[2017.10.03-21.15.07:925][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.03-21.15.07:925][967]LogDirectoryWatcher: A directory notification for 'C:/Users/tsny7/Documents/Unreal Projects/Pong/Content/' was aborted.
+[2017.10.03-21.15.07:925][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.03-21.15.07:925][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.03-21.15.07:925][967]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.03-21.15.08:025][967]LogExit: Object subsystem successfully closed.
+[2017.10.03-21.15.08:045][967]LogD3D11RHI: Shutdown
+[2017.10.03-21.15.08:045][967]LogD3D11RHI: CleanupD3DDevice
+[2017.10.03-21.15.08:133][967]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.03-21.15.08:141][967]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2017.10.03-21.15.08:141][967]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.10.03-21.15.08:141][967]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.10.03-21.15.08:141][967]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.10.03-21.15.08:141][967]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.03-21.15.08:141][967]LogModuleManager: Shutting down and abandoning module AddContentDialog (528)
+[2017.10.03-21.15.08:141][967]LogDirectoryWatcher: A directory notification for 'D:/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.03-21.15.08:142][967]LogModuleManager: Shutting down and abandoning module WidgetCarousel (527)
+[2017.10.03-21.15.08:142][967]LogModuleManager: Shutting down and abandoning module EditorWidgets (524)
+[2017.10.03-21.15.08:142][967]LogModuleManager: Shutting down and abandoning module CollectionManager (522)
+[2017.10.03-21.15.08:142][967]LogDirectoryWatcher: A directory notification for 'C:/Users/tsny7/Documents/Unreal Projects/Pong/Content/Collections/' was aborted.
+[2017.10.03-21.15.08:143][967]LogDirectoryWatcher: A directory notification for 'C:/Users/tsny7/Documents/Unreal Projects/Pong/Content/Developers/tsny7/Collections/' was aborted.
+[2017.10.03-21.15.08:143][967]LogDirectoryWatcher: A directory notification for 'C:/Users/tsny7/Documents/Unreal Projects/Pong/Saved/Collections/' was aborted.
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module SceneOutliner (520)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.03-21.15.08:143][967]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.03-21.15.08:144][967]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.03-21.15.08:757][967]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.03-21.15.08:758][967]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.03-21.15.08:811][967]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.03-21.15.08:812][967]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.03-21.15.08:812][967]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.03-21.15.08:822][967]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.03-21.15.08:823][967]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.03-21.15.08:824][967]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.03-21.15.08:824][967]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.03-21.15.08:824][967]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.03-21.15.08:824][967]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.03-21.15.08:884][967]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.03-21.15.08:885][967]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.03-21.15.08:886][967]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.03-21.15.08:987][967]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.03-21.15.09:087][967]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.03-21.15.09:087][967]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.03-21.15.09:087][967]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.03-21.15.09:087][967]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.03-21.15.09:087][967]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.03-21.15.09:087][967]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.03-21.15.09:088][967]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.03-21.15.09:089][967]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.03-21.15.09:090][967]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.03-21.15.09:090][967]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.03-21.15.09:091][967]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.03-21.15.09:092][967]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.03-21.15.09:150][967]LogDerivedDataCache: Shutdown
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.03-21.15.09:150][967]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.03-21.15.09:151][967]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.03-21.15.09:151][967]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.03-21.15.09:151][967]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.03-21.15.09:151][967]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6BAE419F-4AAE-3B0D-DC82-3797B67F6E6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b4d9a39b4e47fd22029e5cb68b6900ab%7C2274f703298a449693c3d7a24f48bde9%7C77b2fe78-1533-4f5b-896a-dfa70f4a6115&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.03-21.15.09:178][967]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.03-21.15.09:179][967]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.03-21.15.09:181][967]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.03-21.15.09:186][967]LogExit: Exiting.
+[2017.10.03-21.15.09:214][967]Log file closed, 10/03/17 16:15:09
